@@ -1,5 +1,5 @@
 
-# Hi, I'm Muhammad Kachalla Buhari 👋
+# Hi, I'm Muhammad Kachalla Buhari 
 
 ### Computer Engineer | Cybersecurity Enthusiast | IT & Networking | Technology Innovator | Data Analyst 
 
@@ -11,19 +11,19 @@ My focus is on developing technical skills, building practical projects, and con
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Background in Higher National Diploma (HND) in Computer Engineering.
-- 🔐 Interested in Cybersecurity, Information Security, and Network Security.
-- 🌐 Exploring computer networking, system administration, and secure infrastructure.
-- 💻 Interested in programming, software development, and database management.
-- 🤖 Exploring Artificial Intelligence, Internet of Things (IoT), and automation.
-- 🚀 Participant in the 3MTT Digital Skills Programme.
-- 📚 Committed to continuous learning, research, and practical problem-solving.
+-  Background in Higher National Diploma (HND) in Computer Engineering.
+-  Interested in Cybersecurity, Information Security, and Network Security.
+-  Exploring computer networking, system administration, and secure infrastructure.
+-  Interested in programming, software development, and database management.
+-  Exploring Artificial Intelligence, Internet of Things (IoT), and automation.
+-  Participant in the 3MTT Digital Skills Programme.
+-  Committed to continuous learning, research, and practical problem-solving.
 
 ---
 
-## 🛠️ Technical Skills & Areas of Interest
+##  Technical Skills & Areas of Interest
 
 ### Cybersecurity
 - Cybersecurity Fundamentals
@@ -70,24 +70,24 @@ My focus is on developing technical skills, building practical projects, and con
 
 ---
 
-## 🚀 Projects & Practical Experience
+##  Projects & Practical Experience
 
 Some of the areas I have explored through academic, personal, and practical projects include:
 
-### 🔐 Cybersecurity Projects
+###  Cybersecurity Projects
 - Secure Database Design and Access Control.
 - Network Security Architecture using VLANs, ACLs, and IDS concepts.
 - Vulnerability Assessment and Web Application Security Testing.
 - Encryption and Digital Certificate Implementation.
 - Cybersecurity Awareness and Digital Safety Projects.
 
-### 🤖 IoT & Engineering Projects
+###  IoT & Engineering Projects
 - Smart Irrigation System using ESP32.
 - Automatic Smart Door System with Facial Recognition.
 - IoT-Based Smart Curtain Control System.
 - Sensor-Based Automation and Embedded Systems.
 
-### 💻 Software & Development Projects
+###  Software & Development Projects
 - Smart Study Assistant – AI-powered learning solution.
 - Python-based applications and automation.
 - Database management and secure data handling.
@@ -95,7 +95,7 @@ Some of the areas I have explored through academic, personal, and practical proj
 
 ---
 
-## 🎓 Learning & Certifications
+##  Learning & Certifications
 
 I'm committed to professional development through structured learning and practical experience.
 
@@ -106,7 +106,7 @@ I'm committed to professional development through structured learning and practi
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - Deepening my knowledge of cybersecurity and ethical security practices.
 - Improving my programming and software development skills.
@@ -116,7 +116,7 @@ I'm committed to professional development through structured learning and practi
 
 ---
 
-## 💡 My Philosophy
+##  My Philosophy
 
 "Technology is most powerful when knowledge is transformed into solutions that improve lives, strengthen systems, and create opportunities."
 
@@ -124,14 +124,14 @@ I believe in continuous learning, practical experimentation, critical thinking, 
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm interested in connecting with developers, engineers, cybersecurity professionals, researchers, and technology enthusiasts.
 
 Let's learn, collaborate, share knowledge, and build solutions together.
 
-**LinkedIn:** [www.linkedin.com/in/muhammad-kachalla-6b9b13b5]
+**LinkedIn:** www.linkedin.com/in/muhammad-kachalla-6b9b13b5
 
 ---
 
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile!
